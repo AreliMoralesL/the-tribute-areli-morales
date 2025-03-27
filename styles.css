@@ -1,0 +1,32 @@
+header
+h1 {
+    text-align: center;
+    background-color:#EACA20 ;
+    padding: 60px;
+    margin: none;
+} 
+h2 {
+    text-align: center;
+    color: white;
+    margin: none;
+    background-color: #000000;
+}
+
+main {
+    text-align: center;
+}
+figure{
+    display: inline-block;
+    background: #A194C4 
+    padding: 40px;
+    margin: 10px;
+}
+
+ul{
+    display: inline-block;
+}
+h5 {
+    text-align: center;
+    background-color:#EACA20 ;
+    padding: 30px;
+}
